@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.box {
+  background-color: rgb(151, 12, 231);
+  width: 200px;
+  height: 200px;
+  border: 3px solid red;
+  border-radius: 10px;
+}
+.circle {
+  background-color: rgb(231, 12, 103);
+  width: 200px;
+  height: 200px;
+  border: 3px solid rgb(255, 174, 0);
+  border-radius: 50%;
+}
+.anothershape {
+  background-color: rgb(12, 231, 165);
+  width: 200px;
+  height: 200px;
+  border: 3px solid rgb(255, 0, 128);
+  border-radius: 150px 150px 0px 0px;
+}
+.hoverandtap {
+  background-color: rgb(52, 67, 109);
+  width: 200px;
+  height: 100px;
+  border: 3px solid rgb(104, 70, 165);
+  border-radius: 10px;
+}
+.keyframes {
+  background-color: rgb(0, 245, 122);
+  width: 200px;
+  height: 200px;
+  margin-top: 120px;
+  border: 3px solid rgb(233, 9, 177);
+  border-radius: 10px;
+}
